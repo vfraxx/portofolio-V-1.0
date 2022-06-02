@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/port/static/css/main.613c1315.css",
+    "main.js": "/port/static/js/main.6acb4617.js",
+    "static/media/3Dkirieji04.eot": "/port/static/media/3Dkirieji04.f72e440f6d9b4f6493b6.eot",
+    "static/media/3Dkirieji04.woff": "/port/static/media/3Dkirieji04.590d87253c6764d957e1.woff",
+    "static/media/3Dkirieji04.woff2": "/port/static/media/3Dkirieji04.57b6664834d1834547b7.woff2",
+    "static/media/Pelak-SemiBold.eot": "/port/static/media/Pelak-SemiBold.89155403a5f9b0f48f76.eot",
+    "static/media/Pelak-Bold.eot": "/port/static/media/Pelak-Bold.5c4eabdc612058e5b684.eot",
+    "static/media/Pelak-Medium.eot": "/port/static/media/Pelak-Medium.453cf6a31751ca9adf5d.eot",
+    "static/media/Pelak-ExtraBold.eot": "/port/static/media/Pelak-ExtraBold.458f8f0cd24d8cfa8f19.eot",
+    "static/media/Pelak-Regular.eot": "/port/static/media/Pelak-Regular.f4121d655a0760cc7a0c.eot",
+    "static/media/Pelak-light.eot": "/port/static/media/Pelak-light.4dbd4beefff0f657b0d5.eot",
+    "static/media/Pelak-SemiBold.woff": "/port/static/media/Pelak-SemiBold.7f3346c3fce5eafba87f.woff",
+    "static/media/Pelak-Bold.woff": "/port/static/media/Pelak-Bold.e7d9b9ac900bddca0570.woff",
+    "static/media/Pelak-ExtraBold.woff": "/port/static/media/Pelak-ExtraBold.7b8431c16c87798bdcbf.woff",
+    "static/media/Pelak-Medium.woff": "/port/static/media/Pelak-Medium.43b78ea40919a86e5a08.woff",
+    "static/media/Pelak-Regular.woff": "/port/static/media/Pelak-Regular.dc7f01cfe0e9fa65b289.woff",
+    "static/media/Pelak-light.woff": "/port/static/media/Pelak-light.4e3a52a12769c4d8f783.woff",
+    "static/media/Pelak-Thin.eot": "/port/static/media/Pelak-Thin.f58a176784f824ad705c.eot",
+    "static/media/Pelak-SemiBold.woff2": "/port/static/media/Pelak-SemiBold.68f4285fcaca683b3da8.woff2",
+    "static/media/Pelak-Black.eot": "/port/static/media/Pelak-Black.05d88857e6ff3a1ca519.eot",
+    "static/media/Pelak-Thin.woff": "/port/static/media/Pelak-Thin.7fe232c7ee834388303b.woff",
+    "static/media/Pelak-Bold.woff2": "/port/static/media/Pelak-Bold.4cbad2e55d93bf602aee.woff2",
+    "static/media/Pelak-Medium.woff2": "/port/static/media/Pelak-Medium.a7868608b84c0ba69414.woff2",
+    "static/media/Pelak-Regular.woff2": "/port/static/media/Pelak-Regular.ec4ecba2cd50d2d570cd.woff2",
+    "static/media/Pelak-ExtraBold.woff2": "/port/static/media/Pelak-ExtraBold.35dedb94a713feda8efe.woff2",
+    "static/media/Pelak-Black.woff": "/port/static/media/Pelak-Black.7568a3b49bed5bd5ac37.woff",
+    "static/media/Pelak-light.woff2": "/port/static/media/Pelak-light.157848cb7f050c0e48ea.woff2",
+    "static/media/Pelak-Thin.woff2": "/port/static/media/Pelak-Thin.057d00c49107658f5309.woff2",
+    "static/media/Pelak-Black.woff2": "/port/static/media/Pelak-Black.ccaece9b3655875671d8.woff2",
+    "index.html": "/port/index.html",
+    "main.613c1315.css.map": "/port/static/css/main.613c1315.css.map",
+    "main.6acb4617.js.map": "/port/static/js/main.6acb4617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613c1315.css",
+    "static/js/main.6acb4617.js"
+  ]
+}
